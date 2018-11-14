@@ -216,6 +216,10 @@ input[type=submit] {
   border: 0 none;
 }
 
+#blue{
+  height:205.5px;
+}
+
 @media screen and (max-width:980px) {
  
   .main-section{
