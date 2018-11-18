@@ -224,6 +224,10 @@ input[type=submit] {
   height:205.5px;
 }
 
+#mark{
+  height: 205.5px;
+}
+
 @media screen and (max-width:980px) {
  
   .main-section{
