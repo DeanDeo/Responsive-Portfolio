@@ -144,8 +144,9 @@ h3, h2 {
   overflow: auto;
 }
 
-.work:nth-child(even) {
+.work:nth-child(odd) {
   margin-right: 40px;
+  margin-left: 40px;
 }
 
 .work img {
@@ -237,6 +238,10 @@ input[type=submit] {
 }
 
 #chi{
+  height: 205.5px;
+}
+
+#liri{
   height: 205.5px;
 }
 
